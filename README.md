@@ -69,8 +69,8 @@ We welcome contributions from the community! Whether it's bug fixes, feature enh
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Contact
 
-Have questions or suggestions? Feel free to reach out to us at [email@example.com](mailto:jjaiswal.aj.1234@example.com) or open an issue on GitHub. We'd love to hear from you!
+Have questions or suggestions? Feel free to reach out to us at [Email](mailto:jjaiswal.aj.1234@example.com) or open an issue on GitHub. We'd love to hear from you!
